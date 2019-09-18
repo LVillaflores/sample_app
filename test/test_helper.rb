@@ -4,7 +4,6 @@ require 'rails/test_help'
 require "minitest/reporters"
 Minitest::Reporters.use!
 include ApplicationHelper
-fixtures :all?
 
 class ActiveSupport::TestCase
   # Run tests in parallel with specified workers

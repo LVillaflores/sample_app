@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"temp",
+				"temp"
+			],
+			[
+				"max",
+				"max_profit"
+			],
+			[
+				"to",
+				"to_a"
+			],
+			[
+				"s",
+				"stocks"
+			],
+			[
+				"buy",
+				"buy_time"
+			],
+			[
+				"sell",
+				"sell_time"
+			],
+			[
+				"sel",
+				"sell_time"
+			],
+			[
+				"bu",
+				"buy_time"
+			],
+			[
+				"sort",
+				"sort_by"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"is_",
+				"is_number"
+			],
+			[
+				"so",
+				"sorted_array"
+			],
+			[
+				"game",
+				"game_hash"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"ga",
+				"game_hash"
+			],
+			[
+				"ca",
+				"capitalize"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"cust",
+				"cust1"
+			],
+			[
+				"cu",
+				"cust2"
+			],
+			[
+				"cus",
+				"cust1"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"nav",
+				"color-navcolor"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"scroll",
+				"scrollDuration"
+			],
+			[
+				"dis",
+				"display_button"
+			],
+			[
+				"sing",
+				"signOut"
+			],
+			[
+				"sign",
+				"signOut"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"Op",
+				"OpenSans"
+			],
+			[
+				"font",
+				"font-body"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"lis",
+				"list-style-position\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"navbar-",
+				"navbar-toggler"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"jus",
+				"justify-content-end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tandaguest/rails_project/sample_app",
+		"/Users/tandaguest/rails_project/sample_app/app",
+		"/Users/tandaguest/rails_project/sample_app/app/models",
+		"/Users/tandaguest/rails_project/sample_app/test",
+		"/Users/tandaguest/rails_project/sample_app/test/models"
+	],
+	"file_history":
+	[
+		"/Users/tandaguest/rails_project/sample_app/test/integration/users_login_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/sessions/new.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/controllers/sessions_controller.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/controllers/application_controller.rb",
+		"/Users/tandaguest/rails_project/sample_app/config/database.yml",
+		"/Users/tandaguest/rails_project/sample_app/test/integration/site_layout_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/test/fixtures/users.yml",
+		"/Users/tandaguest/rails_project/sample_app/app/models/user.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/javascript/packs/application.js",
+		"/Users/tandaguest/rails_project/sample_app/config/webpack/environment.js",
+		"/Users/tandaguest/rails_project/sample_app/app/assets/stylesheets/application.css",
+		"/Users/tandaguest/rails_project/sample_app/app/views/layouts/application.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/test/controllers/sessions_controller_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/config/routes.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/assets/stylesheets/custom.scss",
+		"/Users/tandaguest/rails_project/sample_app/app/views/users/show.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/helpers/users_helper.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/controllers/users_controller.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/users/new.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/test/integration/users_signup_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/config/environments/production.rb",
+		"/Users/tandaguest/rails_project/sample_app/config/puma.rb",
+		"/Users/tandaguest/rails_project/sample_app/Procfile",
+		"/Users/tandaguest/rails_project/sample_app/test/models/user_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/show.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/Gemfile",
+		"/Users/tandaguest/rails_project/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/test/controllers/users_controller_test.rb",
+		"/Users/tandaguest/rails_project/sample_app/test/test_helper.rb",
+		"/Users/tandaguest/rails_project/sample_app/db/migrate/20190918055451_add_index_to_users_email.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/layouts/_rails_default.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/config/initializers/assets.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/helpers/application_helper.rb",
+		"/Users/tandaguest/rails_project/sample_app/example_user.rb",
+		"/Users/tandaguest/rails_project/sample_app/Guardfile",
+		"/Users/tandaguest/rails_project/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/tandaguest/rails_project/sample_app/README.md",
+		"/Users/tandaguest/rails_project/sample_app/spec/spec_helper.rb",
+		"/Users/tandaguest/rails_project/sample_app/spec/rails_helper.rb",
+		"/Users/tandaguest/rails_project/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/tandaguest/rails_project/demo_app/Gemfile",
+		"/Users/tandaguest/rails_project/demo_app/app/models/user.rb",
+		"/Users/tandaguest/rails_project/demo_app/app/models/micropost.rb",
+		"/Users/tandaguest/rails_project/demo_app/config/routes.rb",
+		"/Users/tandaguest/rails_project/first_app/README.md",
+		"/Users/tandaguest/rails_project/first_app/Gemfile",
+		"/Users/tandaguest/Desktop/Ruby/Program/test.rb",
+		"/Users/tandaguest/Desktop/Ruby/Program/arrayinpt.rb",
+		"/Users/tandaguest/Desktop/Ruby/test.rb",
+		"/Users/tandaguest/Desktop/Ruby/support.rb",
+		"/Users/tandaguest/Desktop/Ruby/moral.rb",
+		"/Users/tandaguest/Desktop/Ruby/trig.rb",
+		"/Users/tandaguest/Desktop/Website/style.scss",
+		"/Users/tandaguest/Desktop/Website/index.html",
+		"/Users/tandaguest/Desktop/Website/test2.haml",
+		"/Users/tandaguest/Desktop/Website/index.js",
+		"/Users/tandaguest/Desktop/Website/Sample/check.js",
+		"/Users/tandaguest/Desktop/Website/Sample/checkOnline.html",
+		"/Users/tandaguest/Desktop/Website/output.html",
+		"/Users/tandaguest/Desktop/Website/index.css",
+		"/Users/tandaguest/Desktop/Website/style.css",
+		"/Users/tandaguest/Desktop/Website/sass.scss",
+		"/Users/tandaguest/Desktop/Website/SassSample.html",
+		"/Users/tandaguest/Desktop/Website/index.scss.css",
+		"/Users/tandaguest/Desktop/Website/sass.css",
+		"/Users/tandaguest/Desktop/Website/test2.html.haml",
+		"/Users/tandaguest/Desktop/Website/test.haml",
+		"/Users/tandaguest/Desktop/Website/index.html.haml",
+		"/Users/tandaguest/Desktop/Website/collapse.html",
+		"/Users/tandaguest/eclipse-workspace/Website/index.css",
+		"/Users/tandaguest/eclipse-workspace/Website/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"empty",
+			"$light-gray",
+			"color: #777"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App Rails6.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"jsfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

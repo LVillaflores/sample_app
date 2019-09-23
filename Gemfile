@@ -2,14 +2,22 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem 'rails',      '6.0.0'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'puma',       '3.12.1'
 gem 'sass-rails', '5.1.0'
 gem 'webpacker',  '4.0.7'
 gem 'turbolinks', '5.2.0'
 gem 'jbuilder',   '2.9.1'
-gem 'bootsnap',   '1.4.4', require: false
+gem 'bootsnap',   '1.4.4'
 gem 'bcrypt'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
+gem 'json', '~> 2.2'
+gem 'poltergeist', '~> 1.18', '>= 1.18.1'
+gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
+gem 'slim-rails', '~> 3.2'
+gem 'term-ansicolor', '~> 1.7', '>= 1.7.1'
+gem 'uglifier', '~> 4.1', '>= 4.1.20'
+gem 'bootstrap', '~> 4.3.1'
 
 group :development, :test do
   gem 'sqlite3', '1.4.1'

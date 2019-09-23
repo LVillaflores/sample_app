@@ -18,6 +18,9 @@ gem 'slim-rails', '~> 3.2'
 gem 'term-ansicolor', '~> 1.7', '>= 1.7.1'
 gem 'uglifier', '~> 4.1', '>= 4.1.20'
 gem 'bootstrap', '~> 4.3.1'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :development, :test do
   gem 'sqlite3', '1.4.1'

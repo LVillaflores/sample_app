@@ -96,6 +96,13 @@ GEM
       rake (< 13.0)
     cliver (0.3.2)
     coderay (1.1.2)
+    coffee-rails (5.0.0)
+      coffee-script (>= 2.2.0)
+      railties (>= 5.2.0)
+    coffee-script (2.4.1)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
     declarative (0.0.10)
@@ -104,7 +111,7 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     dry-inflector (0.1.2)
     erubi (1.8.0)
-    excon (0.66.0)
+    excon (0.67.0)
     execjs (2.7.0)
     faker (2.4.0)
       i18n (~> 1.6.0)
@@ -174,7 +181,7 @@ GEM
       fog-core (~> 2.1)
       fog-json (~> 1.1)
       fog-xml (~> 0.1)
-    fog-core (2.1.0)
+    fog-core (2.1.2)
       builder
       excon (~> 0.58)
       formatador (~> 0.2)
@@ -194,10 +201,10 @@ GEM
     fog-ecloud (0.3.0)
       fog-core
       fog-xml
-    fog-google (1.9.1)
-      fog-core (<= 2.1.0)
-      fog-json (~> 1.2)
-      fog-xml (~> 0.1.0)
+    fog-google (1.7.1)
+      fog-core
+      fog-json
+      fog-xml
       google-api-client (~> 0.23.0)
     fog-internet-archive (0.0.1)
       fog-core
@@ -301,6 +308,9 @@ GEM
     guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
+    haml (5.1.2)
+      temple (>= 0.8.0)
+      tilt
     http-accept (1.7.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
@@ -351,7 +361,7 @@ GEM
     multipart-post (2.1.1)
     nenv (0.3.0)
     netrc (0.11.0)
-    nio4r (2.5.1)
+    nio4r (2.5.2)
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     notiffany (0.1.3)
@@ -487,7 +497,7 @@ GEM
       tins (~> 1.0)
     thor (0.20.3)
     thread_safe (0.3.6)
-    tilt (2.0.9)
+    tilt (2.0.10)
     tins (1.21.1)
     turbolinks (5.2.0)
       turbolinks-source (~> 5.2)
@@ -535,10 +545,12 @@ DEPENDENCIES
   byebug (= 11.0.1)
   capybara (= 3.28.0)
   carrierwave
+  coffee-rails
   faker
   fog
   guard (= 2.15.0)
   guard-minitest (= 2.4.6)
+  haml (~> 5.1, >= 5.1.1)
   jbuilder (= 2.9.1)
   jquery-rails (~> 4.3, >= 4.3.5)
   json (~> 2.2)

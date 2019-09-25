@@ -66,7 +66,7 @@ Rails.application.configure do
   config.action_mailer.raise_delivery_errors = true
   config.action_mailer.delivery_method = :smtp
 
-  host = 'frozen-mountain-46958.heroku.app'
+  host = 'frozen-mountain-46958.herokuapp.com'
 
   config.action_mailer.default_url_options = { host: host}
   ActionMailer::Base.smtp_settings ={
@@ -75,7 +75,7 @@ Rails.application.configure do
   	:authentication 				=> :plain,
   	:user_name 							=> ENV['SENDGRID_USERNAME'],
   	:password 							=> ENV['SENDGRID_PASSWORD'],
-  	:domain									=> 'heroku.app.com',
+  	:domain									=> 'herokuapp.com',
   	:enable_starttle_auto		=> true
   }
 
